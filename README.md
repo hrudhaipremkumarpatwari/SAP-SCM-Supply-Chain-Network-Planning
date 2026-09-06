@@ -6,6 +6,12 @@ This repository documents a **Supply Chain Network Planning simulation using SAP
 
 > **Project type:** Conceptual SAP SCM network-planning and configuration blueprint. It is not presented as a live production-system implementation.
 
+## Final Report
+
+📄 **[Download / View the Final Week 1 SAP SCM Report (.docx)](docs/SAP_SCM_Week1_Supply_Chain_Network_Planning_Hrudhai_Final_Reviewed.docx)**
+
+The Word document above is the final reviewed internship submission report for this project.
+
 ## Project Objective
 
 The objective is to design an efficient end-to-end supply chain network and explain how SAP SCM/APO planning concepts can support:
@@ -138,9 +144,11 @@ SAP-SCM-Supply-Chain-Network-Planning/
 |
 |-- README.md
 |-- docs/
+|   |-- SAP_SCM_Week1_Supply_Chain_Network_Planning_Hrudhai_Final_Reviewed.docx
 |   |-- network-plan.md
 |   |-- configuration-checklist.md
-|   `-- risk-register.md
+|   |-- risk-register.md
+|   `-- submission-description.md
 |
 `-- diagrams/
     |-- supply-chain-network.md
@@ -149,6 +157,7 @@ SAP-SCM-Supply-Chain-Network-Planning/
 
 ## Deliverables
 
+- final Week 1 Word report
 - supply chain network design
 - business assumptions and stakeholder roles
 - SAP SCM/APO configuration blueprint
@@ -156,7 +165,6 @@ SAP-SCM-Supply-Chain-Network-Planning/
 - master-data and planning-parameter checklist
 - KPI framework
 - risk and contingency analysis
-- Week 1 Word report submitted separately as the internship report deliverable
 
 ## Learning Outcomes
 
