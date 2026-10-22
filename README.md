@@ -8,7 +8,7 @@ This repository documents a **Supply Chain Network Planning simulation using SAP
 
 ## Final Report
 
-📄 **[Download / View the Final Week 1 SAP SCM Report (.docx)](docs/SAP_SCM_Week1_Supply_Chain_Network_Planning_Hrudhai_Final_Reviewed.docx)**
+📄 **[Download / View the Final Week 1 SAP SCM Report (.docx)](docs/SAP_SCM_Week1_Supply_Chain_Network_Planning_Hrudhai_Final.docx)**
 
 The Word document above is the final reviewed internship submission report for this project.
 
@@ -135,7 +135,7 @@ The design evaluates the network using indicators such as:
 
 The project analyzes risks including supplier disruption, plant downtime, unexpected demand spikes, transportation delays, packaging shortages, capacity bottlenecks, incorrect master data, and integration failures.
 
-Detailed mitigations are documented in [`docs/risk-register.md`](docs/risk-register.md).
+Detailed mitigations are documented in [`docs/risk-and-validation.md`](docs/risk-and-validation.md).
 
 ## Repository Structure
 
@@ -148,7 +148,7 @@ SAP-SCM-Supply-Chain-Network-Planning/
 |   |-- network-plan.md
 |   |-- configuration-checklist.md
 |   |-- risk-register.md
-|   `-- submission-description.md
+|   `-- portal-submission-description.md
 |
 `-- diagrams/
     |-- supply-chain-network.md
@@ -182,3 +182,8 @@ SAP SCM / SAP MM Learner | IT Operations Professional
 ### Academic / Internship Use
 
 This repository is a learning and internship project. Company names, demand values, capacities, suppliers, costs, and operational assumptions used in the scenario are fictional and are intended only to demonstrate SAP SCM network-planning concepts.
+
+
+## Six-Assessment Series
+
+This repository is part of the six-assessment SAP SCM internship series. Each assessment keeps the final Word report and supporting analysis under `docs/`, with editable process diagrams under `diagrams/`. See `docs/assessment-overview.md` for the standardized assessment map.
