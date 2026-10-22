@@ -1,0 +1,9 @@
+## Week 1 Portal Submission Description
+
+This Week 1 assessment presents a Supply Chain Network Planning analysis in SAP SCM using a structured internship simulation. The report focuses on translating a business distribution problem into a planning model with locations, transportation lanes, demand, supply constraints, and network relationships. The analysis explains how the network can be represented in SAP SCM and how planning decisions can be reviewed through scenario-based analysis.
+
+The report covers the planning objective, scenario assumptions, network structure, configuration considerations, demand and supply alignment, transportation-lane logic, alternative planning decisions, and risk controls. Supporting documents provide a network-plan view, configuration checklist, and visual planning/network diagrams so that the assessment can be reviewed separately from the main Word report.
+
+The work is organized as a practical learning exercise rather than a claim of live SAP execution. Any company information, quantities, capacities, transportation assumptions, costs, or planning outcomes used in the assessment are illustrative. The report therefore focuses on the reasoning behind the planning model, the relationship between master data and planning results, and the controls required before a real system implementation.
+
+The repository also includes validation considerations so that network feasibility, demand reconciliation, lane availability, capacity assumptions, and scenario results can be checked systematically. This makes the Week 1 submission the foundation for the later assessments, which progressively move into master data and inventory, logistics and distribution, production scheduling, integration and collaboration, and finally KPI-based performance improvement.
