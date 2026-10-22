@@ -2,6 +2,23 @@
 
 ## Week 1 Internship Project
 
+## Six-Assessment Portfolio Navigation
+
+This assessment is part of my six-assessment SAP SCM internship portfolio. The series is structured as one connected learning journey from network planning through performance improvement.
+
+| Week | Assessment | Repository |
+|---|---|---|
+| 1 | Supply Chain Network Planning | [Open Week 1](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Supply-Chain-Network-Planning) |
+| 2 | Master Data & Inventory Optimization | [Open Week 2](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Master-Data-Inventory-Optimization) |
+| 3 | Logistics & Distribution Network Design | [Open Week 3](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Logistics-Distribution-Network-Design) |
+| 4 | Production Planning & Scheduling Analysis | [Open Week 4](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Week4-Production-Planning-Scheduling-Analysis) |
+| 5 | Supply Chain Integration & Collaboration | [Open Week 5](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Week5-Supply-Chain-Integration-Collaboration) |
+| 6 | Performance Evaluation & Continuous Improvement | [Open Week 6](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Week6-Performance-Evaluation-Continuous-Improvement) |
+
+**Central portfolio hub:** [SAP-SCM-Internship-Portfolio](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Internship-Portfolio) — the central index for the complete series.
+
+
+
 This repository documents a **Supply Chain Network Planning simulation using SAP SCM / SAP APO Supply Network Planning (SNP) concepts**. The project is designed around a fictional but realistic Indian food-manufacturing company and demonstrates how supply, production, warehousing, transportation, and distribution decisions can be modeled in a structured SAP SCM planning approach.
 
 > **Project type:** Conceptual SAP SCM network-planning and configuration blueprint. It is not presented as a live production-system implementation.
@@ -144,10 +161,11 @@ SAP-SCM-Supply-Chain-Network-Planning/
 |
 |-- README.md
 |-- docs/
-|   |-- SAP_SCM_Week1_Supply_Chain_Network_Planning_Hrudhai_Final_Reviewed.docx
+|   |-- SAP_SCM_Week1_Supply_Chain_Network_Planning_Hrudhai_Final.docx
+|   |-- assessment-overview.md
 |   |-- network-plan.md
 |   |-- configuration-checklist.md
-|   |-- risk-register.md
+|   |-- risk-and-validation.md
 |   `-- portal-submission-description.md
 |
 `-- diagrams/
